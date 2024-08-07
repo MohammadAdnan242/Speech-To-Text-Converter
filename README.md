@@ -20,6 +20,9 @@ npm install
 Start the development server:
 npm start
 
+I deployed it on netlify
+url:link:https://speechtotextconverter007.netlify.app/
+
 Usage
 Open your browser and navigate to http://localhost:3000.
 Click the microphone button to start listening.
